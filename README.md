@@ -1,1 +1,1 @@
-# solar_generation
+# solar_prediction
